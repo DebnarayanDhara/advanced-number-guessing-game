@@ -1,4 +1,4 @@
-# 🎯 Advanced Number Guessing Game in Python
+# Advanced Number Guessing Game in Python
 
 An advanced command-line Number Guessing Game built using Python. The game includes difficulty levels, score tracking, best score record, input validation, smart hints, timer, statistics, and replay support.
 
@@ -82,5 +82,5 @@ It also tells you whether to choose a smaller or larger number.
 1. Install Python 3.
 2. Clone this repository:
 
-```bash
-git clone https://github.com/DebnarayanDhara/advanced-number-guessing-game-python.git
+## Author
+Debnarayan Dhara
